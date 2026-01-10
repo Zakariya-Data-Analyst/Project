@@ -6,11 +6,11 @@ L’objectif est de reproduire une démarche réaliste de Data Analyst, depuis l
 
 Objectifs : 
 
-Comprendre le profil des professionnels de la data (rôles, niveaux d’expérience, formations)
-Analyser les technologies utilisées (langages, outils, environnements)
-Étudier les salaires, secteurs et zones géographiques
-Mettre en œuvre un pipeline d’analyse de données complet
-Produire des visualisations claires et orientées métier
+Comprendre le profil des professionnels de la data (rôles, niveaux d’expérience, formations).
+Analyser les technologies utilisées (langages, outils, environnements).
+Étudier les salaires, secteurs et zones géographiques.
+Mettre en œuvre un pipeline d’analyse de données complet.
+Produire des visualisations claires et orientées métier.
 
 
 
