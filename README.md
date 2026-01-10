@@ -10,6 +10,9 @@ Données issues de Kaggle Data jobs survey
 ![image alt](https://github.com/Zakariya-Data-Analyst/Project/blob/main/slide%202.PNG?raw=true
 )
 
+![image alt](https://github.com/Zakariya-Data-Analyst/Project/blob/main/slide%203.png?raw=true)
+
+
 
 
 
