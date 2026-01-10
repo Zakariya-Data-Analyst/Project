@@ -15,11 +15,23 @@ Produire des visualisations claires et orientées métier
 
 
 
+
+
+
+
+
+
 ![image alt](https://github.com/Zakariya-Data-Analyst/Project/blob/main/slide%201.PNG?raw=true)
 
 Ci-dessus on peut voir l’état des lieux de notre jeu de données, avec la présence de sliceurs pour segmenter notre analyse si besoin. 
 Les profiles des répondants sont variés, avec une majorité d'étudiants et de Data Scientists.
 En revanche on constate une majorité d'hommes avec 78%. 
+
+
+
+
+
+
 
 
 
@@ -32,6 +44,11 @@ Ici, l’analyse salariale montre un salaire moyen et médian de 44,5K USD dans 
 
 
 
+
+
+
+
+
 ![image alt](https://github.com/Zakariya-Data-Analyst/Project/blob/main/slide%203.png?raw=true)
 
 Les résultats montrent une forte standardisation des outils en data science. Tableau et Power BI sont les principaux outils de Business Intelligence. Python s’impose largement comme le langage de référence, suivi de SQL. Côté cloud, Google Cloud Platform et Microsoft Azure concentrent la majorité des usages. Ces technologies constituent aujourd’hui le socle des pratiques data.
@@ -39,9 +56,23 @@ Les résultats montrent une forte standardisation des outils en data science. Ta
 
 
 
+
+
+
+
+
+
+
 Voici un aperçu du modèle en étoile (à titre indicatif)
 ![image alt](https://github.com/Zakariya-Data-Analyst/Project/blob/main/mod%C3%A8le%20en%20%C3%A9toile%20PBI.PNG?raw=true
 )
+
+
+
+
+
+
+
 
 
 Conclusion :
